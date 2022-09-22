@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Teclado",
+    "price": 263.1,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/technology-13/48/tech-color_keyboard-512.png",
+    "id": 1
+  },
+  {
+    "title": "Compu",
+    "price": 3568,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/technology-13/48/tech-color_computer-512.png",
+    "id": 2
+  },
+  {
+    "title": "Monitor",
+    "price": 1375.23,
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/flat-set-2/64/flat_set_2-09-512.png",
+    "id": 3
+  },
+  {
+    "title": "Mouse",
+    "price": 1000,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/input-mouse-512.png",
+    "id": 4
+  }
+]
